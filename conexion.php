@@ -1,5 +1,5 @@
 <?php
-// PRODUCCION
+//PRODUCCION222
 // $cfg->servidor = "exisimplexdb.cji1xbl0xigt.us-east-1.rds.amazonaws.com";
 // $cfg->puerto = 5432;
 // $cfg->nombreDeUsuario = "postgres";
